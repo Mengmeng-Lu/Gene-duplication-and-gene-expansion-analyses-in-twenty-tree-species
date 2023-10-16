@@ -1,6 +1,7 @@
-This repo encompasses the scripts that I used for our manuscript "Comparative transcriptomics reveals divergence in pathogen response gene families amongst twenty forest tree species". 
+This repo encompasses the scripts that I used for our manuscript "Comparative transcriptomics reveals divergence in pathogen response gene families amongst 20 forest tree species". 
 
-doi: https://doi.org/10.1101/2023.03.06.531373
+Mengmeng Lu, Min Cao, Jie Yang, Nathan G Swenson, Comparative transcriptomics reveals divergence in pathogen response gene families amongst 20 forest tree species, G3 Genes|Genomes|Genetics, 2023;
+https://doi.org/10.1093/g3journal/jkad233
 
 
 To run the code:
